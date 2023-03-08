@@ -149,7 +149,7 @@
                     </div>
                     <!-- Icon Text -->
                     <div class="icon-text">
-                        <h3 class="mb-2">Integrasi WhatsApp</h3>
+                        <h3 class="mb-2">Integrasi WhatsApp Aja</h3>
                         <p>Daftar akun, notifikasi acara, kirim link undangan ? otomatis lewat whatsapp</p>
                     </div>
                 </div>
