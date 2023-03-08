@@ -1,5 +1,3 @@
-<?php $this->load->view("template/home-header") ?>
-
 <!-- ***** Welcome Area Start ***** -->
 <section id="home" class="section welcome-area bg-overlay overflow-hidden d-flex align-items-center">
     <div class="container">
@@ -536,5 +534,3 @@
 <!--====== Height Emulator Area Start ======-->
 <div class="height-emulator d-none d-lg-block"></div>
 <!--====== Height Emulator Area End ======-->
-
-<?php $this->load->view("template/home-footer") ?>
