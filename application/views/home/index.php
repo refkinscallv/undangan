@@ -11,7 +11,7 @@
                     <p class="text-white my-4">Jadiin momen pernikahan kamu lebih keren dengan undangan digital</p>
                     <!-- Store Buttons -->
                     <div class="button-group store-buttons d-flex">
-                        <button type="" class="btn btn-secondary btn-lg" id="" style="border:2px solid #fff">Lihat Sample</button>
+                        <button type="" class="btn btn-secondary btn-lg" id="" style="border:2px solid #fff">Lihat Contoh</button>
                     </div>
                 </div>
             </div>
