@@ -106,7 +106,7 @@
                     </div>
                     <!-- Icon Text -->
                     <div class="icon-text">
-                        <h3 class="mb-2">Hitung Mundur ya</h3>
+                        <h3 class="mb-2">Hitung Mundur ya, mungkin</h3>
                         <p>Pastiin kapan mulainya dengan atur tanggal mainnya</p>
                     </div>
                 </div>
