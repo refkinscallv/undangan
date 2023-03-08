@@ -9,7 +9,6 @@
         public function index(){
             $data   = [
                 "site"      => $this->global->site(),
-                "package"   => $this->global->package()
             ];
 
             $this->load->view("home/index", $data);
