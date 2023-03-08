@@ -77,7 +77,7 @@
                         <span class="text-primary">Premium</span>
                         Fitur
                     </span>
-                    <h2>Apa Yang Beda Disini ?</h2>
+                    <h2>Apa Yang Beda Disini sih ?</h2>
                     <p class="d-none d-sm-block mt-4">Onvit kasih kamu sesuatu berbeda dengan fitur yang canggih.<br />Khusus buat kamu!</p>
                 </div>
             </div>
