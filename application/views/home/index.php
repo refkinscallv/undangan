@@ -11,7 +11,7 @@
                     <p class="text-white my-4">Jadiin momen pernikahan kamu lebih keren dengan undangan digital</p>
                     <!-- Store Buttons -->
                     <div class="button-group store-buttons d-flex">
-                        <button type="" class="btn btn-secondary btn-lg" id="" style="border:2px solid #fff">Coba Sekarang</button>
+                        <button type="" class="btn btn-secondary btn-lg" id="" style="border:2px solid #fff">Lihat Sample</button>
                     </div>
                 </div>
             </div>
@@ -125,7 +125,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="col-12 col-md-6 col-lg-4 res-margin">
                 <!-- Image Box -->
                 <div class="image-box text-center icon-1 p-5 wow fadeInLeft" data-wow-delay="0.4s">
